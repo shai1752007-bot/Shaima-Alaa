@@ -1,10 +1,10 @@
-# Hi there, I'm [Shaima Alaa] 👋
+# Hi there, I'm Shaimaa Alaa 👋
 
 ### 👩‍💻 About Me
 - 🎓 **Software Engineering Student**
-- 🎯 Passionate about learning new technologies and building software.
-- 📚 Currently focusing on improving my coding skills and software design.
+- 🎯 Passionate about learning software development and solving logical problems.
+- 📚 Currently focused on academic studies and mastering foundational concepts.
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** HTML, CSS, JavaScript (أو ضعي اللغات التي درستيها بالجامعة)
+- **Languages:** C++, Java
 - **Tools:** Git, GitHub, VS Code
