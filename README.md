@@ -1,4 +1,4 @@
-# Hi there, I'm [Shaima Aalaa] 👋
+# Hi there, I'm [Shaima Alaa] 👋
 
 ### 👩‍💻 About Me
 - 🎓 **Software Engineering Student**
